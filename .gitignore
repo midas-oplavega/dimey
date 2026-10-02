@@ -4,6 +4,8 @@
 !.env.example
 *.pem
 *.key
+*.jks
+*.keystore
 credentials.json
 client_secret*.json
 service-account*.json
@@ -13,6 +15,8 @@ token.json
 /scratch/
 /data/
 statements/
+*-statement*.pdf
+*-statement*.csv
 *.db
 *.db-wal
 *.db-shm
