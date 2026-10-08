@@ -1,8 +1,8 @@
-# Expense Tracker
+# Dimey
 
-An open source, privacy-first expense tracker that records transactions
-automatically from bank SMS and email alerts, and lets you split them with
-friends in the same app.
+Dimey is an open source, privacy-first expense tracker that records
+transactions automatically from bank SMS and email alerts, and lets you split
+them with friends in the same app.
 
 **Status:** design stage. There is no code yet, and contributions are not
 being accepted at this stage.
