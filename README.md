@@ -30,18 +30,21 @@ spent.
   and a statement line describe the same transaction.
 - **Splitting built in.** Split any transaction with friends, track balances
   and settle up, including partial settlements.
-- **Private by default.** Everything stays on the device unless you choose to
-  share a split.
+- **Private by default.** The first release is local-only, and nothing leaves
+  the device.
 
 The first target is Android, with banks, cards and UPI in India.
 
 ## Privacy
 
+The first release is local-only.
+
 - Raw messages, transactions and account details never leave the device.
-- A split can be kept private, using local names for friends, with nothing
-  synced.
-- Sharing splits with friends needs an account and a server. Only the shared
-  split and settlement records are stored there.
+- Splits use local names for friends, and nothing is synced.
+
+The design leaves room for a later cloud release, which is not scheduled. It
+would be a separate, optional build that adds an account, sync between your
+own devices, a website and splits shared with friends.
 
 ## Licence
 
