@@ -1,8 +1,9 @@
 # Dimey
 
-Dimey is an open source, privacy-first expense tracker that records
-transactions automatically from bank SMS and email alerts, and lets you split
-them with friends in the same app.
+Dimey is an open source, privacy-first personal finance app. It reads bank
+SMS and email alerts to record the money coming into and going out of your
+accounts automatically, and lets you split expenses with friends in the same
+app.
 
 **Status:** design stage. There is no code yet, and contributions are not
 being accepted at this stage.
@@ -10,15 +11,13 @@ being accepted at this stage.
 ## The problem
 
 Money moves through many channels: several bank accounts, credit and debit
-cards, UPI. Working out where it went usually means going through statements
-months later, when nobody remembers what half the transactions were for.
+cards, UPI. Nothing shows in one place what came in and what went out.
+Working that out usually means going through statements months later, when
+nobody remembers what half the transactions were for.
 
-Shared expenses have the same problem. The dinner is paid for today and
-entered into a splitting app months later, by which time everyone has
+Shared expenses are one part of this. They are often entered into a
+splitting app months after they were paid, by which time everyone has
 forgotten the details.
-
-Both come from the same gap: the expense is recorded long after the money is
-spent.
 
 ## Goals
 
