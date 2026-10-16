@@ -10,8 +10,18 @@ labels: bug
 
 ## What should happen
 
-<What you expected instead.>
+<What you expected instead. Once fixed, this is what the failing test
+checks.>
 
 ## How to reproduce
 
 <The steps, the version or commit, and where it ran.>
+
+## What it costs
+
+<Who it affects, how often, and what it costs them. This decides whether it
+is fixed now.>
+
+## Size
+
+<S, M or L, and the trigger that sets it. Most bugs are small.>

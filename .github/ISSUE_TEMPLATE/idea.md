@@ -1,6 +1,6 @@
 ---
 name: Idea
-about: Something to remember that is not decided yet
+about: Something that may be worth doing, for the owner to decide go, later or never
 labels: idea
 ---
 
@@ -8,9 +8,21 @@ labels: idea
 
 <What it is, in a few sentences.>
 
-## Why it might matter
+## What it gains
 
-<The problem it would solve, or what it would make possible.>
+<For whom, and what it makes possible or saves.>
+
+## Why now
+
+<Why it matters at this point, or what waiting costs.>
+
+## Appetite
+
+<How much time it is worth.>
+
+## Requirements, in outline
+
+<What would have to be true once it is done, and what it would leave out.>
 
 ## Open questions
 
