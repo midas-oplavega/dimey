@@ -1,6 +1,6 @@
-# Dimey
+# Memento
 
-Dimey is an open source, privacy-first personal finance app. It reads bank
+Memento is an open source, privacy-first personal finance app. It reads bank
 SMS and email alerts to record the money coming into and going out of your
 accounts automatically, and lets you split expenses with friends in the same
 app.
